@@ -3,6 +3,9 @@
 *.ap_
 *.aab
 
+# Needed for FTC projects
+!libs/*.aar
+
 # Files for the ART/Dalvik VM
 *.dex
 
